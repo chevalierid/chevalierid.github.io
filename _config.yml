@@ -23,7 +23,7 @@ email: daphne.chevalier@ubc.ca
 description: >- # this means to ignore newlines until "baseurl:"
   Personal academic website for Daphne Chevalier.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://chevalierid.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  chevalierid
 
 # Build settings
