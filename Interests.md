@@ -4,8 +4,6 @@ title: "Interests"
 permalink: /interests
 ---
 
-![2024-08-20-091909_009](https://github.com/user-attachments/assets/4e8293bd-d705-4d0a-8890-be0c3fbff8ac)![signal-2024-08-20-091909_009](https://github.com/user-attachments/assets/53473ec6-3364-4f8e-ba03-436b55ca5953)![MVIMG_20200206_224432](https://github.com/user-attachments/assets/009007ee-41a5-4ac5-9bf5-9db8156287d5)![IMG_4887](https://github.com/user-attachments/assets/5dce6894-9568-4632-b184-4a5a5b4f6851)
-
 In my spare time, I enjoy making things for my friends and family. I especially enjoy traditional art, knitting, embroidery, and construction.
 
 ## Artwork
