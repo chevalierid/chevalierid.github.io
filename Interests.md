@@ -1,4 +1,4 @@
-![signal-2024-08-20-091909_014](https://github.com/user-attachments/assets/ed092df6-fa3b-4913-bf4e-279ec6f0a73d)---
+---
 layout: page
 title: "Interests"
 permalink: /interests
