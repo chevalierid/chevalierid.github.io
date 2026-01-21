@@ -9,7 +9,7 @@ In my spare time, I enjoy making things for my friends and family. I especially 
 ## Artwork
 | ![IMG_4891](https://github.com/user-attachments/assets/33017313-3950-4695-8d10-a08807f773ba){: width="250" } | ![IMG_8964](https://github.com/user-attachments/assets/4b7392ff-5df2-43c1-8cf3-2f60faa914fb){: width="250" } |
 |------------------------------------------------------------------------------------------------|
-| ![IMG_8901](https://github.com/user-attachments/assets/f6439bd7-807f-4a79-b48e-fc94768fb0e9){: width="250" } | ![IMG_4887](https://github.com/user-attachments/assets/b9457d97-8032-4203-92c2-28b6092fad34){: width="250" }
+| ![IMG_8901](https://github.com/user-attachments/assets/f6439bd7-807f-4a79-b48e-fc94768fb0e9){: width="250" } | ![IMG_4887](https://github.com/user-attachments/assets/b9457d97-8032-4203-92c2-28b6092fad34){: width="250" } |
 
 ## Textile arts
 ![IMG_1110](https://github.com/user-attachments/assets/1e223343-1bee-432f-97cb-1d3314f997ab){: width="250" }
