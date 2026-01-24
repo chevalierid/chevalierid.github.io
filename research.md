@@ -9,6 +9,8 @@ _Thesis project for MSc in Plant Science, University of British Columbia (2022-2
 
 Artificial light at night is growing at an astounding rate. As historically dark areas become perturbed by brighter and bluer lights, the daily rhythms of many life forms may change in unprecedented and poorly understood ways. I designed and deployed stations with sensors and lights in two colours, then captured ground-dwelling arthropods while rotating light treatments across the sites.
 
+I had the chance to talk about this issue in several media appearances, including a French-language interview on (Radio Canada)[https://ici.radio-canada.ca/nouvelle/2125790/noel-lumiere-decoration-nature-insect-animaux-nuit].
+
 (under review) **Chevalier, D.**, Geissmann, Q., Carrillo, J. Taxonomic effects of white and amber LED artificial light at night on arthropods. Biological Conservation. (in revision)
 
 ## HeartAgain pediatric transplant support system
@@ -24,4 +26,5 @@ _Co-operative work position at the Department of National Defence, Toronto, Cana
 I characterised and improved a treatment to stop bleeding during non-compressible hemorrhage using ELISA, gel electrophoresis, and thromboelastometry tests. These results were presented at Military Health System Research Symposium 2019 & published in two Defence Canada reports (below).
 
 Defence Research and Development Canada. Development of biomaterials for treating battlefield hemorrhage Part 1: self-propelling particles. Peng, H. and **Walford, D.** (DRDC-RDDC-2020-R135; online). Toronto, ON, 2020.
+
 Defence Research and Development Canada. Development of biomaterials for treating battlefield hemorrhage Part 2: self-propelling particle-loaded gauzes. Peng, H. and **Walford, D.** (DRDC-RDDC-2022-R135; online). Toronto, ON, 2022.
