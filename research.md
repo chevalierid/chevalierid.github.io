@@ -9,7 +9,7 @@ _Thesis project for MSc in Plant Science, University of British Columbia (2022-2
 
 Artificial light at night is growing at an astounding rate. As historically dark areas become perturbed by brighter and bluer lights, the daily rhythms of many life forms may change in unprecedented and poorly understood ways. I designed and deployed stations with sensors and lights in two colours, then captured ground-dwelling arthropods while rotating light treatments across the sites.
 
-I had the chance to talk about this issue in several media appearances, including a French-language interview on [Radio Canada]([url](https://piee-lab.landfood.ubc.ca/research/examining-effects-of-artificial-light-at-night-on-insects-and-bats/)).
+I had the chance to talk about this issue in several media appearances, including a French-language interview on [Radio Canada](https://piee-lab.landfood.ubc.ca/research/examining-effects-of-artificial-light-at-night-on-insects-and-bats/).
 
 (under review) **Chevalier, D.**, Geissmann, Q., Carrillo, J. Taxonomic effects of white and amber LED artificial light at night on arthropods. Biological Conservation. (in revision)
 
