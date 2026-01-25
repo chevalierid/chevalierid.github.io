@@ -21,13 +21,13 @@ _Capstone project for BASc in biomedical engineering, University of Waterloo (20
 
 We built a flexible enclosure with integrated sensing to keep a pediatric transplant heart beating and monitored outside the body during transport. I led our team of 4 students in collaboration with surgeons and engineers at Toronto's Hospital for Sick Children.
 
-Haller, C., **Walford, D.**, Maxwell, C., Tomaino, K., Yu, M., Looi, T., Forte, V., & Honjo, O. (2021). A Closed-Circuit Ex Vivo Perfusion System for Pediatric Solid Organ Transplantation. The Journal of Heart and Lung Transplantation, 40(4), S39. https://doi.org/10.1016/j.healun.2021.01.1834
+Haller, C., **Walford, D.**, Maxwell, C., Tomaino, K., Yu, M., Looi, T., Forte, V., & Honjo, O. (2021). A Closed-Circuit Ex Vivo Perfusion System for Pediatric Solid Organ Transplantation. The Journal of Heart and Lung Transplantation, 40(4), S39. [https://doi.org/10.1016/j.healun.2021.01.1834](https://doi.org/10.1016/j.healun.2021.01.1834)
 
 ## Optimising a new hemostatic agent
 _Co-operative work position at the Department of National Defence, Toronto, Canada_
 
 I characterised and improved a treatment to stop bleeding during non-compressible hemorrhage using ELISA, gel electrophoresis, and thromboelastometry tests. These results were presented at Military Health System Research Symposium 2019 & published in two Defence Canada reports (below).
 
-Defence Research and Development Canada. Development of biomaterials for treating battlefield hemorrhage Part 1: self-propelling particles. Peng, H. and **Walford, D.** (DRDC-RDDC-2020-R135; online). Toronto, ON, 2020.
+Defence Research and Development Canada. Development of biomaterials for treating battlefield hemorrhage Part 1: self-propelling particles. Peng, H. and **Walford, D.** ([DRDC-RDDC-2020-R135](https://pubs.drdc-rddc.gc.ca/BASIS/pcandid/www/engpub/DDW?W%3DSYSNUM=812561&r=0); online). Toronto, ON, 2020. 
 
-Defence Research and Development Canada. Development of biomaterials for treating battlefield hemorrhage Part 2: self-propelling particle-loaded gauzes. Peng, H. and **Walford, D.** (DRDC-RDDC-2022-R135; online). Toronto, ON, 2022.
+Defence Research and Development Canada. Development of biomaterials for treating battlefield hemorrhage Part 2: self-propelling particle-loaded gauzes. Peng, H. and **Walford, D.** ([DRDC-RDDC-2022-R135](https://pubs.drdc-rddc.gc.ca/BASIS/pcandid/www/engpub/DDW?W%3DSYSNUM=814260&r=0); online). Toronto, ON, 2022.
