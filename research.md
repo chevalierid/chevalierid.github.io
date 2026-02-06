@@ -7,11 +7,13 @@ permalink: /research/
 ## How does artificial light at night affect ground-dwelling insects?
 _Thesis project for MSc in Plant Science, University of British Columbia (2022-2025), co-supervised by Dr. Juli Carrillo and Dr. Quentin Geissmann_
 
+![ALAN-Daphne](https://github.com/user-attachments/assets/a028e952-3437-40f2-af97-3068a88f5e27){: width="300" }
+
 Artificial light at night is growing at an astounding rate. As historically dark areas become perturbed by brighter and bluer lights, the daily rhythms of many life forms may change in unprecedented and poorly understood ways. I designed and deployed stations with sensors and lights in two colours, then captured ground-dwelling arthropods while rotating light treatments across the sites.
 
 I had the chance to talk about this issue in several media appearances, including a French-language interview on [Radio Canada](https://piee-lab.landfood.ubc.ca/research/examining-effects-of-artificial-light-at-night-on-insects-and-bats/).
 
-(under review) **Chevalier, D.**, Geissmann, Q., Carrillo, J. Taxonomic effects of white and amber LED artificial light at night on arthropods. Biological Conservation. (in revision)
+(under review) **Chevalier, D.**, Geissmann, Q., Carrillo, J. Taxonomic effects of white and amber LED artificial light at night on arthropods. Biological Conservation.
 
 ## HeartAgain pediatric transplant support system
 _Capstone project for BASc in biomedical engineering, University of Waterloo (2018-2020)_
