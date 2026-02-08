@@ -7,6 +7,8 @@ permalink: /research/
 ## How does artificial light at night affect ground-dwelling insects?
 _Thesis project for MSc in Plant Science, University of British Columbia (2022-2025), co-supervised by Dr. Juli Carrillo and Dr. Quentin Geissmann_
 
+{% include figure.html path="assets/img/ALAN-Daphne.jpg" title="Daphne setting up experiment, photo credits Martin Dee and UBC Land & Food Systems" class="img-fluid rounded z-depth-1" %}
+
 ![ALAN-Daphne](https://github.com/user-attachments/assets/a028e952-3437-40f2-af97-3068a88f5e27){: width="500" }
 
 Artificial light at night is growing at an astounding rate. As historically dark areas become perturbed by brighter and bluer lights, the daily rhythms of many life forms may change in unprecedented and poorly understood ways. I designed and deployed stations with sensors and lights in two colours, then captured ground-dwelling arthropods while rotating light treatments across the sites.
