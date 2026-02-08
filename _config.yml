@@ -18,17 +18,46 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Daphne Chevalier
+
+title: blank
+first_name: Daphne
+middle_name:
+last_name: Chevalier
 email: daphne.chevalier@ubc.ca
-description: Theme is Minima by Jekyll.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+description: >
+  Daphne Chevalier's website.
+url: https://chevalierid.github.io # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: # the subpath of your site, e.g. /blog
 github_username:  chevalierid
+orcid_id: 0000-0001-5558-0610
+
+contact_note: >
+  email | ORCID | GitHub
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+
+imagemagick:
+  enabled: true # enables responsive images for your site
+  widths:
+    - 480
+    - 800
+    - 1400
+  input_directories:
+    - assets/img/
+  input_formats:
+    - ".jpg"
+    - ".jpeg"
+    - ".png"
+    - ".tiff"
+    - ".gif"
+  output_formats:
+    webp: "-quality 85"
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
