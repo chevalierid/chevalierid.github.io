@@ -14,10 +14,13 @@ Artificial light at night is growing at an astounding rate. As historically dark
 
 I had the chance to talk about this issue in several media appearances, including a French-language interview on [Radio Canada](https://piee-lab.landfood.ubc.ca/research/examining-effects-of-artificial-light-at-night-on-insects-and-bats/).
 
-(under review) **Chevalier, D.**, Geissmann, Q., Carrillo, J. Taxonomic effects of white and amber LED artificial light at night on arthropods. Biological Conservation.
+(revisions under review) **Chevalier, D.**, Geissmann, Q., Carrillo, J. Taxonomic effects of white and amber LED artificial light at night on arthropods. Biological Conservation.
+
+(submitted) **Chevalier, D.**, Chavez Molina, N., Carrillo, J., Geissmann, Q. ALANizer: Design and validation of experimental lighting rig for studying artificial light at night in ecosystems. Journal of Applied Entomology.
 
 ## HeartAgain pediatric transplant support system
 _Capstone project for BASc in biomedical engineering, University of Waterloo (2018-2020)_
+
 
 ![heartagain](https://github.com/user-attachments/assets/5cbb988b-6405-40c5-ad58-6cfa2cf2632c){: width="300" }
 
