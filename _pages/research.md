@@ -21,9 +21,7 @@ I had the chance to talk about this issue in several media appearances, includin
 ## HeartAgain pediatric transplant support system
 _Capstone project for BASc in biomedical engineering, University of Waterloo (2018-2020)_
 
-
-![heartagain](https://github.com/user-attachments/assets/5cbb988b-6405-40c5-ad58-6cfa2cf2632c){: width="300" }
-
+{% include figure.html path="assets/img/heartagain.jpg" title="Device prototype at final design symposium" class="img-fluid rounded z-depth-1" %}
 
 We built a flexible enclosure with integrated sensing to keep a pediatric transplant heart beating and monitored outside the body during transport. I led our team of 4 students in collaboration with surgeons and engineers at Toronto's Hospital for Sick Children.
 
