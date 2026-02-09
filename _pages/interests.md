@@ -26,9 +26,9 @@ In my spare time, I enjoy making things for my friends and family. I especially 
 </p>
 
 <p float="left">
-  <img src="assets/img/knit1_v.JPEG" width="29%" />
-  <img src="assets/img/knit2_v.JPEG" width="35%" /> 
-  <img src="assets/img/knit3_v.png" width="35%" /> 
+  <img src="assets/img/knit1_v.JPEG" width="28%" />
+  <img src="assets/img/knit2_v.JPEG" width="34%" /> 
+  <img src="assets/img/knit3_v.png" width="34%" /> 
 </p>
 
 ## Construction
