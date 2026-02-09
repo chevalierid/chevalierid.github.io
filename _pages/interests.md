@@ -9,8 +9,8 @@ In my spare time, I enjoy making things for my friends and family. I especially 
 ## Artwork
 
 <p float="left">
-  <img src="assets/img/art1_v.jpg" width="100%" />
-  <img src="assets/img/art2_v.JPEG" width="100%" /> 
+  <img src="assets/img/art1_v.jpg" width="49%" />
+  <img src="assets/img/art2_v.JPEG" width="49%" /> 
 </p>
 
 {% include figure.html class="img-left" width="45%" path="assets/img/art3_h.JPEG" title="Drawing of an ant and aphid" %}
