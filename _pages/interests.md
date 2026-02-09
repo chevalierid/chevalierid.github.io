@@ -31,8 +31,8 @@ In my spare time, I enjoy making things for my friends and family. I especially 
   <img src="assets/img/knit3_v.png" width="35%" /> 
 </p>
 
-
 ## Construction
+
 <p float="left">
   <img src="assets/img/cabin_v.jpeg" width="100%" />
 </p>
