@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /
 ---
 
 I have a diverse set of interconnected research interests! I started out with a strong motivation to improve human health, which I explored through co-op and research positions in my biomedical engineering degree at the University of Waterloo. I then took a year of unclassified studies at the University of British Columbia to learn more about the environment and society, through which I developed a passion for ecology. I chose to follow this passion into my Master's at UBC, during which I studied the effects of light pollution on ground-dwelling arthropods.
