@@ -7,9 +7,11 @@ permalink: /interests
 In my spare time, I enjoy making things for my friends and family. I especially enjoy traditional art, knitting, embroidery, and construction.
 
 ## Artwork
-{% include figure.html class="img-left" width="45%" path="assets/img/art1_v.jpg" title="Drawing of a friend's dog" %}
 
-{% include figure.html class="img-left" width="45%" path="assets/img/art2_v.JPEG" title="Drawing of a jumping spider" %}
+<p float="left">
+  <img src="/art1_v.jpg" width="100" />
+  <img src="/art2_v.jpg" width="100" /> 
+</p>
 
 {% include figure.html class="img-left" width="45%" path="assets/img/art3_h.JPEG" title="Drawing of an ant and aphid" %}
 
