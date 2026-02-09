@@ -13,20 +13,30 @@ In my spare time, I enjoy making things for my friends and family. I especially 
   <img src="assets/img/art2_v.JPEG" width="49%" /> 
 </p>
 
-{% include figure.html class="img-left" width="45%" path="assets/img/art3_h.JPEG" title="Drawing of an ant and aphid" %}
-
-{% include figure.html class="img-left" width="45%" path="assets/img/art5_h.JPEG" title="Drawing of a slice of pizza" %}
-
+<p float="left">
+  <img src="assets/img/art3_h.JPEG" width="49%" />
+  <img src="assets/img/art5_h.JPEG" width="49%" /> 
+</p>
 
 ## Textile arts
 
-![IMG_8899](https://github.com/user-attachments/assets/0789865d-48a9-4cfb-8a93-9c3f9232994a){: width="300" } ![IMG_6998](https://github.com/user-attachments/assets/b2cf2364-ccb9-450b-b3d1-bc759ae2ce37){: width="300"}
+<p float="left">
+  <img src="assets/img/textile1_h.JPEG" width="49%" />
+  <img src="assets/img/textile2_h.jpeg" width="49%" /> 
+</p>
 
-![IMG_1110](https://github.com/user-attachments/assets/1e223343-1bee-432f-97cb-1d3314f997ab){: width="200" } ![IMG_1970](https://github.com/user-attachments/assets/6b76c2de-fd68-45e9-8fa0-771ce824c068){: width="200" } ![IMG_2080](https://github.com/user-attachments/assets/53bfcdff-7000-4147-949c-612982160d8f){: width="200" }
+<p float="left">
+  <img src="assets/img/knit1_v.JPEG" width="33%" />
+  <img src="assets/img/knit2_v.JPEG" width="33%" /> 
+  <img src="assets/img/knit3_v.png" width="33%" /> 
+</p>
 
 
 ## Construction
-![2024-08-20-091909_014](https://github.com/user-attachments/assets/0b8db680-d121-42c2-a7d2-1684398d0a36)
+<p float="left">
+  <img src="assets/img/cabin_v.jpeg" width="100%" />
+</p>
 
-![2024-08-20](https://github.com/user-attachments/assets/283921da-2088-41be-aaf1-ba465a38d28d)
-
+<p float="left">
+  <img src="assets/img/gate_h.jpeg" width="100%" />
+</p>
