@@ -36,11 +36,6 @@ theme: minima
 plugins:
   - jekyll-feed
 
-header_pages:
- - education.md
- - research.md
- - interests.md
-
 imagemagick:
   enabled: true # enables responsive images for your site
   widths:
