@@ -2,6 +2,7 @@
 layout: page
 title: "Interests"
 permalink: /interests
+order: 3
 ---
 
 In my spare time, I enjoy making things for my friends and family. I especially enjoy traditional art, knitting, embroidery, and construction.
