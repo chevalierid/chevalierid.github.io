@@ -2,9 +2,6 @@
 
   <div class="wrapper">
     {% assign sorted_pages = site.pages | sort:"order" %}
-    {% for node in sorted_pages %}
-      <li><a href="{{node.url}}">{{node.title}}</a></li>
-    {% endfor %}
     {%- assign page_paths = site.minima.nav_pages | default: default_paths -%}
     {%- assign page_titles = site.pages | map: 'title' | compact %}
     <a class="site-title" rel="author" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
