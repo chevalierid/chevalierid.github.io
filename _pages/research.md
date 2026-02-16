@@ -2,6 +2,7 @@
 layout: page
 title: "Research"
 permalink: /research/
+order: 2
 ---
 
 ## How does artificial light at night affect ground-dwelling insects?
