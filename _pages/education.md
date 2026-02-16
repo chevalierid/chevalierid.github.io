@@ -2,6 +2,7 @@
 layout: page
 title: "Education"
 permalink: /education/
+order: 1
 ---
 
 ### M.Sc. in Plant Science (2022-2025)
