@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Research"
+title: "Research Experience"
 permalink: /research/
 order: 2
 ---
