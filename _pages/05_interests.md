@@ -5,7 +5,9 @@ permalink: /interests
 order: 3
 ---
 
-In my spare time, I enjoy making things for my friends and family. I especially enjoy traditional art, knitting, embroidery, and construction.
+In my spare time, I enjoy hiking, camping, skiing, and making things for my friends and family. I especially enjoy traditional art, knitting, embroidery, and construction.
+
+I am fluent in French and am currently enrolled in a beginner German course.
 
 ## Artwork
 
