@@ -13,7 +13,7 @@ _Photo credits Martin Dee and UBC Land & Food Systems._
 
 Artificial light at night is growing at an astounding rate. As historically dark areas become perturbed by brighter and bluer lights, the daily rhythms of many life forms may change in unprecedented and poorly understood ways. I designed and deployed stations with sensors and lights in two colours, then captured ground-dwelling arthropods while rotating light treatments across the sites.
 
-I had the chance to talk about this issue in several media appearances, including a French-language interview on [Radio Canada](https://piee-lab.landfood.ubc.ca/research/examining-effects-of-artificial-light-at-night-on-insects-and-bats/).
+I had the chance to talk about this issue in several media appearances, including a French-language interview on [Radio Canada](https://ici.radio-canada.ca/nouvelle/2125790/noel-lumiere-decoration-nature-insect-animaux-nuit).
 
 #### Publications:
 
