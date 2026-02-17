@@ -35,6 +35,7 @@ contact_note: >
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-pdf-embed
 
 imagemagick:
   enabled: true # enables responsive images for your site
