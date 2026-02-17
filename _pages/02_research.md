@@ -33,7 +33,7 @@ We built a flexible enclosure with integrated sensing to keep a pediatric transp
 Haller, C., **Walford, D.**, Maxwell, C., Tomaino, K., Yu, M., Looi, T., Forte, V., & Honjo, O. (2021). A Closed-Circuit Ex Vivo Perfusion System for Pediatric Solid Organ Transplantation. The Journal of Heart and Lung Transplantation, 40(4), S39. [https://doi.org/10.1016/j.healun.2021.01.1834](https://doi.org/10.1016/j.healun.2021.01.1834)
 
 ## Optimising a new hemostatic agent
-_Co-operative work position at the Department of National Defence, Toronto, Canada_
+_Co-operative work position at the Department of National Defence, Toronto, Canada (2019)_
 
 I characterised and improved a treatment to stop bleeding during non-compressible hemorrhage using ELISA, gel electrophoresis, and thromboelastometry tests. These results were presented at Military Health System Research Symposium 2019 & published in two Defence Canada reports.
 
