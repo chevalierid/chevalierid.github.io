@@ -15,7 +15,7 @@ Artificial light at night is growing at an astounding rate. As historically dark
 
 I had the chance to talk about this issue in several media appearances, including a French-language interview on [Radio Canada](https://piee-lab.landfood.ubc.ca/research/examining-effects-of-artificial-light-at-night-on-insects-and-bats/).
 
-### Publications:
+#### Publications:
 
 (revisions under review) **Chevalier, D.**, Geissmann, Q., Carrillo, J. Taxonomic effects of white and amber LED artificial light at night on arthropods. _Biological Conservation._
 
@@ -28,7 +28,7 @@ _Capstone project for BASc in biomedical engineering, University of Waterloo (20
 
 We built a flexible enclosure with integrated sensing to keep a pediatric transplant heart beating and monitored outside the body during transport. I led our team of 4 students in collaboration with surgeons and engineers at Toronto's Hospital for Sick Children.
 
-### Publications:
+#### Publications:
 
 Haller, C., **Walford, D.**, Maxwell, C., Tomaino, K., Yu, M., Looi, T., Forte, V., & Honjo, O. (2021). A Closed-Circuit Ex Vivo Perfusion System for Pediatric Solid Organ Transplantation. The Journal of Heart and Lung Transplantation, 40(4), S39. [https://doi.org/10.1016/j.healun.2021.01.1834](https://doi.org/10.1016/j.healun.2021.01.1834)
 
@@ -37,7 +37,7 @@ _Co-operative work position at the Department of National Defence, Toronto, Cana
 
 I characterised and improved a treatment to stop bleeding during non-compressible hemorrhage using ELISA, gel electrophoresis, and thromboelastometry tests. These results were presented at Military Health System Research Symposium 2019 & published in two Defence Canada reports.
 
-### Publications:
+#### Publications:
 
 Defence Research and Development Canada. Development of biomaterials for treating battlefield hemorrhage Part 1: self-propelling particles. Peng, H. and **Walford, D.** ([DRDC-RDDC-2020-R135](https://pubs.drdc-rddc.gc.ca/BASIS/pcandid/www/engpub/DDW?W%3DSYSNUM=812561&r=0); online). Toronto, ON, 2020. 
 
