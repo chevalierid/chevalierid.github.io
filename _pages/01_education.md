@@ -7,6 +7,7 @@ order: 1
 
 ### M.Sc. in Plant Science (2022-2025)
 University of British Columbia, Vancouver, BC, Canada
+[Link to full thesis](open.library.ubc.ca/media/stream/pdf/24/1.0447859/3)
 
 Awards:
 - Michael Smith Foreign Study Supplement,	2023
