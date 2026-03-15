@@ -17,7 +17,7 @@ I had the chance to talk about this issue in several media appearances, includin
 
 #### Publications:
 
-(revisions under review) **Chevalier, D.**, Geissmann, Q., Carrillo, J. Taxonomic effects of white and amber LED artificial light at night on arthropods. _Biological Conservation._
+(accepted for publication) **Chevalier, D.**, Geissmann, Q., Carrillo, J. Taxonomic effects of white and amber LED artificial light at night on arthropods. _Biological Conservation._
 
 (submitted) **Chevalier, D.**, Chavez Molina, N., Carrillo, J., Geissmann, Q. ALANizer: Design and validation of experimental lighting rig for studying artificial light at night in ecosystems. _Journal of Applied Entomology._
 
